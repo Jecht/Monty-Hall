@@ -1,0 +1,12 @@
+const val welcomeMessage = "Bienvenue au paradoxe de Monty Hall"
+const val gameRulesExplanations = "Le but est de trouver la bonne porte"
+const val enterDoorNumber = "Choisissez une première porte entre les 3 portes - Entrez un chiffre entre 1 et 3"
+const val thanks = "Merci"
+const val wrongDoorToDisplay = "Parmi les portes restantes, la porte numéro %d est mauvaise"
+const val changeSelection = "Voulez-vous changer votre sélection ou la garder ? (1 pour changer - 0 pour garder)"
+const val win = "Vous avez gagné"
+const val loose = "Vous avez perdu"
+
+const val errorInputType = "Mauvais type"
+const val errorWrongDoorNumber = "Il faut rentrer un chiffre entre 1 et 3"
+const val errorWrongChoiceNumber = "Il faut rentrer un chiffre qui soit 0 ou 1"
